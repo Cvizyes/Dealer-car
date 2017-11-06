@@ -1,0 +1,157 @@
+
+
+
+.class-form{
+	font-size: 18px;
+	background-color:#DFDFDF;
+	width: 300px;
+	height: 700px;
+	padding-left:30px; 
+	
+}
+.class-form1{
+	float: left;
+  background-color:#DFDFDF;
+  border-radius: 1px;
+  border-style: solid;
+  border-color: red;
+	width: 300px;
+	height: 110px;
+}
+.class-form2{
+
+  float: right;
+  background-color:#DFDFDF;
+  border-radius: 1px;
+  border-style: solid;
+  border-color: #20DC33;
+  width: 450px;
+  height: 300px;
+}
+.class-header{
+
+	background-color:#000;
+	height: 180px;
+
+}
+  div  a {
+ 
+	float: left;
+	color: white;
+	display: block;
+	text-decoration: none;
+	padding: 1px 1px;
+}
+
+.div-style{
+	padding-right: 15px;
+}
+.row{
+	padding-top: 45px;
+}
+button {
+	font-family: arial;
+	color: white;
+	background-color: red;
+}
+.button-class{
+
+	height: 30px;
+	width: 80px;
+	font-family: arial;
+	color: white;
+	background-color: #20DC33;
+}
+.img-logo{
+	height: 100px;
+	width: 100px;
+
+}
+.img-style{
+	height: 100px;
+	width: 100px;
+}
+.div-green{
+
+  border-radius: 1px;
+  border-style: solid;
+  border-color: #20DC33;
+	width: 300px;
+	height: 150px;
+}
+.div-red{
+padding-right: 3PX;
+  border-radius: 1px;
+  border-style: solid;
+  border-color: #E91A1A;
+	width: 300px;
+}
+
+.div-font{
+	color: #fff;
+}
+.div-size{
+
+}
+.div-color{
+	border-radius: 10px;
+	background-color:#DFDFDF;
+}
+h4{
+	padding-top: 40px;
+}
+.slider{
+	height: 800%;
+	width: 100%;
+
+	overflow: hidden;
+
+}
+.slider ul{
+	display: flex;
+	
+	height: 500%;
+	width: 400%;
+
+	animation: change 20s infinite;
+}
+.slider li {
+	height: 500%;
+	width: 100%;
+	list-style: none;
+}
+.slider img{
+	height: 500%;
+	width: 100%;
+}
+@keyframes change{
+	0%{margin-left: -0%;}
+	20%{margin-left: -0%;}
+
+	25%{margin-left: -100%;}
+	45%{margin-left: -100%;}
+
+	50%{margin-left: -200%;}
+	70%{margin-left: -200%;%}	
+
+	75%{margin-left: -300%;}
+	100%{margin-left: -300%;}
+}
+footer {
+	padding-top: 50px;
+	height: 100px;
+	background-color: #000;
+}
+.div-size{
+	max-width: 500px;
+	max-height: 500px;
+}
+}
+.img {
+	position: absolute;
+	top:;
+	bottom:200px;
+	right:;
+	left:300px; 
+
+}
